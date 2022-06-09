@@ -102,3 +102,5 @@ dist
 
 # TernJS port file
 .tern-port
+
+order_history.json

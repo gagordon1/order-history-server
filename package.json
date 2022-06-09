@@ -1,0 +1,23 @@
+{
+  "name": "order-history-server",
+  "version": "1.0.0",
+  "description": "Respond to order updates from trading bot and handle requests from interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gagordon1/order-history-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gagordon1/order-history-server/issues"
+  },
+  "homepage": "https://github.com/gagordon1/order-history-server#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1"
+  }
+}
